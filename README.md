@@ -1,0 +1,1 @@
+The current project is setting up a page with links to some recipes. In addition to practicing the knowledge of HTML I have obtained, I hope to familiarize myself with using git and github.
